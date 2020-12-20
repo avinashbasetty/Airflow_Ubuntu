@@ -8,3 +8,4 @@ sudo apt update
 ls -l /usr/bin/python*
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
 sudo apt-get install python3-pip
+sudo pip install --upgrade pip
