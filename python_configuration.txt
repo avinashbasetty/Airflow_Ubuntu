@@ -6,3 +6,4 @@ sudo apt update
 sudo apt install python3.6
 sudo apt update
 ls -l /usr/bin/python*
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
